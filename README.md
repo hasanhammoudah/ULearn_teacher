@@ -1,13 +1,15 @@
 # ULearn_teacher
 
-Welcome to ULearn_teacher, an educational application designed specifically for teachers to enhance their teaching experience. Affiliated with uLearning, ULearn_teacher is tailored for educators and includes features such as communication with students and user management.
+Description:
+The "education_app" project is designed to facilitate learning by providing educational materials, videos, and chat functionality. It offers a comprehensive platform where users can access educational content related to various subjects, watch instructional videos tailored to each subject, and engage in discussions through chat features.
+
 
 ## Features:
-- **Create Educational Content**: Easily create and publish diverse educational content tailored to students' needs.
-- **Communication with Students**: Provide various means of communication with students, including text messaging and voice chat.
-- **Student & Content Management**: Efficiently manage student files and educational content.
-- **Track Student Progress**: Provide detailed reports and statistics on student progress and performance.
-- **Beautiful & User-Friendly Design**: Engaging user interface design and easy-to-use experience to ensure teachers' comfort and effectiveness.
+Access educational materials covering diverse subjects.
+Watch subject-specific instructional videos.
+Participate in discussions and interact with peers through chat functionalities.
+Organize educational content efficiently for easy navigation and learning.
+Foster collaborative learning experiences for users.
 
 ## Packaging:
 - cached_network_image: ^3.3.1
@@ -38,4 +40,3 @@ You can download the latest version of the ULearn_teacher APK [here](link_to_apk
 ![Screenshot 2](https://via.placeholder.com/600x400)
 ![Screenshot 3](https://via.placeholder.com/600x400)
 
-*Note: Replace the placeholder images with actual screenshots of your application.*
